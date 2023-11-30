@@ -14,10 +14,8 @@ This repository is created for students of the **NextGen Tech Academy** to perfo
 
 ## ℹ️ Information about courses
 
-Lorem ipsum dolor sit amen
+**NextGen Tech Academy by Devlight** is a course for Android developers. The best-performing students have the opportunity to continue their careers with Devlight.
 
-## ⚖️ License 
+Devlight has a portfolio of 100+ projects and over 35 million app downloads. Our partners include industry giants such as Vodafone, Nova Poshta, Fishka, DOC.UA, Epicenter, Portmone, Novus, and many others.
 
-```
-Lorem ipsum
-```
+Learn more: [devlight.io](https://devlight.io/)
